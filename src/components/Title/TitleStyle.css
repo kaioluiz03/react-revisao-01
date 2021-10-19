@@ -1,0 +1,20 @@
+section{
+    width: 100vw;
+    height: 10rem;
+    background-color: rgb(63, 62, 62);
+    color: whitesmoke;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight:initial;
+    font-stretch: condensed;
+    margin-bottom: 10px;
+}
